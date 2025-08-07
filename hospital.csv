@@ -1,0 +1,501 @@
+id_paciente,idade,sexo,tipo_internacao,data_entrada,data_saida,dias_internacao,diagnostico_principal,tratamento_principal,especialidade_medica,condicao_saida,custo_total,plano_saude,satisfacao_paciente,reinternacao_30dias
+1,85,Feminino,Emergência,2023-11-25 00:00:00,2023-12-29 00:00:00,34,Apêndice,Fisioterapia,Clínica Geral,Alta,25878.89,Público,2,Não
+2,35,Masculino,Emergência,2023-09-02 00:00:00,2023-09-17 00:00:00,15,Infarto,Cirurgia,Ortopedia,Alta,49168.0,Privado,5,Não
+3,47,Feminino,Eletiva,2023-08-14 00:00:00,2023-08-20 00:00:00,6,Pneumonia,Medicação,Ortopedia,Alta,25227.0,Público,3,Não
+4,87,Feminino,Emergência,2023-06-03 00:00:00,2023-06-05 00:00:00,2,Diabetes,Medicação,Ortopedia,Alta,17711.05,Público,5,Não
+5,66,Feminino,Emergência,2023-10-18 00:00:00,2023-10-31 00:00:00,13,Fratura,Fisioterapia,Clínica Geral,Óbito,21980.51,Público,2,Não
+6,85,Masculino,Emergência,2023-03-22 00:00:00,2023-04-18 00:00:00,27,Apêndice,Medicação,Cardiologia,Alta,26410.59,Público,1,Não
+7,47,Feminino,Transferência,2023-07-28 00:00:00,2023-08-01 00:00:00,4,Infarto,Cirurgia,Ortopedia,Alta,47007.82,Público,1,Não
+8,47,Masculino,Eletiva,2023-06-05 00:00:00,2023-06-25 00:00:00,20,Fratura,Fisioterapia,Cardiologia,Alta,28766.49,Público,1,Não
+9,79,Masculino,Emergência,2023-01-28 00:00:00,2023-02-14 00:00:00,17,Fratura,Fisioterapia,Gastroenterologia,Transferido,24103.55,Público,3,Não
+10,50,Feminino,Emergência,2023-12-07 00:00:00,2023-12-25 00:00:00,18,Infarto,Medicação,Ortopedia,Óbito,35874.5,Privado,4,Não
+11,53,Feminino,Eletiva,2023-11-09 00:00:00,2023-12-11 00:00:00,32,Pneumonia,Medicação,Clínica Geral,Transferido,31698.81,Privado,1,Não
+12,23,Feminino,Emergência,2023-11-20 00:00:00,2023-11-27 00:00:00,7,Diabetes,Fisioterapia,Gastroenterologia,Óbito,14732.14,Privado,4,Não
+13,63,Masculino,Eletiva,2023-01-09 00:00:00,2023-01-19 00:00:00,10,Infarto,Fisioterapia,Cardiologia,Alta,27192.29,Público,1,Não
+14,35,Masculino,Emergência,2023-05-18 00:00:00,2023-06-15 00:00:00,28,Apêndice,Medicação,Ortopedia,Alta,28537.45,Público,4,Não
+15,62,Feminino,Eletiva,2023-08-27 00:00:00,2023-09-08 00:00:00,12,Fratura,Medicação,Gastroenterologia,Alta,18431.25,Público,3,Não
+16,56,Feminino,Emergência,2023-05-24 00:00:00,2023-06-16 00:00:00,23,Diabetes,Medicação,Gastroenterologia,Alta,25816.66,Privado,2,Não
+17,76,Feminino,Eletiva,2023-08-25 00:00:00,2023-09-17 00:00:00,23,Infarto,Cirurgia,Cardiologia,Alta,53630.93,Privado,4,Não
+18,80,Masculino,Emergência,2023-07-29 00:00:00,2023-08-22 00:00:00,24,Apêndice,Cirurgia,Ortopedia,Alta,40798.83,Público,5,Não
+19,65,Masculino,Eletiva,2023-03-10 00:00:00,2023-03-24 00:00:00,14,Diabetes,Fisioterapia,Clínica Geral,Alta,20141.02,Público,5,Não
+20,66,Masculino,Emergência,2023-08-16 00:00:00,2023-09-11 00:00:00,26,Apêndice,Fisioterapia,Clínica Geral,Alta,26402.77,Privado,2,Não
+21,57,Feminino,Transferência,2023-11-20 00:00:00,2023-12-08 00:00:00,18,Infarto,Cirurgia,Cardiologia,Alta,50130.63,Público,2,Não
+22,64,Feminino,Eletiva,2023-03-11 00:00:00,2023-03-25 00:00:00,14,Fratura,Cirurgia,Cardiologia,Alta,32174.67,Privado,1,Não
+23,28,Masculino,Emergência,2023-09-22 00:00:00,2023-10-18 00:00:00,26,Pneumonia,Medicação,Ortopedia,Alta,29437.06,Privado,4,Não
+24,67,Feminino,Emergência,2023-07-23 00:00:00,2023-08-11 00:00:00,19,Pneumonia,Fisioterapia,Ortopedia,Alta,24996.16,Público,3,Não
+25,48,Masculino,Emergência,2023-03-01 00:00:00,2023-03-07 00:00:00,6,Fratura,Medicação,Gastroenterologia,Alta,14732.12,Público,4,Não
+26,45,Masculino,Emergência,2023-08-12 00:00:00,2023-09-02 00:00:00,21,Diabetes,Medicação,Ortopedia,Transferido,27083.56,Privado,4,Não
+27,33,Feminino,Transferência,2023-06-25 00:00:00,2023-07-06 00:00:00,11,Diabetes,Medicação,Clínica Geral,Alta,18947.88,Público,4,Não
+28,49,Feminino,Emergência,2023-08-15 00:00:00,2023-09-06 00:00:00,22,Fratura,Medicação,Gastroenterologia,Alta,25686.08,Público,4,Não
+29,33,Masculino,Emergência,2023-09-17 00:00:00,2023-10-09 00:00:00,22,Apêndice,Medicação,Ortopedia,Alta,27192.21,Público,3,Não
+30,73,Masculino,Emergência,2023-09-01 00:00:00,2023-09-27 00:00:00,26,Apêndice,Medicação,Clínica Geral,Alta,26418.06,Privado,4,Não
+31,64,Feminino,Emergência,2023-11-23 00:00:00,2023-12-08 00:00:00,15,Infarto,Fisioterapia,Cardiologia,Alta,32170.83,Público,3,Não
+32,32,Masculino,Eletiva,2023-09-21 00:00:00,2023-09-29 00:00:00,8,Apêndice,Medicação,Gastroenterologia,Alta,20524.38,Público,4,Não
+33,56,Feminino,Eletiva,2023-05-23 00:00:00,2023-06-12 00:00:00,20,Apêndice,Medicação,Ortopedia,Alta,23497.02,Privado,5,Não
+34,68,Masculino,Transferência,2023-09-23 00:00:00,2023-10-18 00:00:00,25,Pneumonia,Fisioterapia,Gastroenterologia,Alta,26989.96,Público,2,Não
+35,63,Feminino,Eletiva,2023-09-23 00:00:00,2023-10-17 00:00:00,24,Diabetes,Medicação,Cardiologia,Alta,25301.2,Público,4,Não
+36,66,Masculino,Transferência,2023-06-25 00:00:00,2023-07-06 00:00:00,11,Apêndice,Fisioterapia,Ortopedia,Alta,22159.2,Público,2,Não
+37,70,Masculino,Emergência,2023-04-18 00:00:00,2023-05-06 00:00:00,18,Infarto,Cirurgia,Cardiologia,Alta,48440.06,Privado,4,Não
+38,40,Feminino,Emergência,2023-06-20 00:00:00,2023-07-09 00:00:00,19,Pneumonia,Cirurgia,Gastroenterologia,Alta,36336.52,Privado,1,Não
+39,63,Feminino,Emergência,2023-02-09 00:00:00,2023-02-23 00:00:00,14,Infarto,Medicação,Clínica Geral,Alta,31149.33,Privado,1,Não
+40,36,Feminino,Eletiva,2023-05-23 00:00:00,2023-06-19 00:00:00,27,Fratura,Fisioterapia,Gastroenterologia,Alta,29243.68,Privado,1,Não
+41,45,Masculino,Eletiva,2023-08-25 00:00:00,2023-09-17 00:00:00,23,Infarto,Medicação,Clínica Geral,Alta,34360.77,Público,5,Não
+42,39,Masculino,Emergência,2023-08-01 00:00:00,2023-08-05 00:00:00,4,Infarto,Medicação,Cardiologia,Alta,30064.9,Privado,2,Sim
+43,21,Feminino,Eletiva,2023-02-14 00:00:00,2023-03-01 00:00:00,15,Infarto,Cirurgia,Gastroenterologia,Alta,45681.36,Público,1,Não
+44,57,Feminino,Emergência,2023-11-20 00:00:00,2023-12-07 00:00:00,17,Pneumonia,Fisioterapia,Clínica Geral,Alta,22119.38,Público,5,Não
+45,69,Masculino,Emergência,2023-03-05 00:00:00,2023-03-16 00:00:00,11,Diabetes,Cirurgia,Ortopedia,Óbito,31526.46,Privado,1,Não
+46,45,Feminino,Emergência,2023-02-18 00:00:00,2023-02-28 00:00:00,10,Pneumonia,Fisioterapia,Clínica Geral,Alta,18449.65,Público,4,Não
+47,21,Masculino,Eletiva,2023-10-09 00:00:00,2023-10-22 00:00:00,13,Fratura,Medicação,Gastroenterologia,Transferido,19927.76,Público,5,Não
+48,70,Masculino,Emergência,2023-09-02 00:00:00,2023-09-09 00:00:00,7,Diabetes,Fisioterapia,Clínica Geral,Transferido,14088.16,Público,4,Sim
+49,38,Masculino,Transferência,2023-11-20 00:00:00,2023-12-10 00:00:00,20,Pneumonia,Medicação,Ortopedia,Alta,24915.69,Público,1,Não
+50,67,Feminino,Emergência,2023-05-18 00:00:00,2023-06-03 00:00:00,16,Fratura,Fisioterapia,Clínica Geral,Alta,21545.97,Público,1,Não
+51,21,Masculino,Emergência,2023-08-01 00:00:00,2023-08-11 00:00:00,10,Apêndice,Medicação,Clínica Geral,Alta,19253.31,Público,2,Não
+52,80,Masculino,Emergência,2023-07-28 00:00:00,2023-08-14 00:00:00,17,Infarto,Cirurgia,Gastroenterologia,Transferido,46884.2,Público,1,Não
+53,50,Masculino,Emergência,2023-11-20 00:00:00,2023-12-04 00:00:00,14,Diabetes,Fisioterapia,Clínica Geral,Alta,21085.66,Privado,2,Não
+54,23,Feminino,Eletiva,2023-06-25 00:00:00,2023-07-16 00:00:00,21,Infarto,Medicação,Cardiologia,Alta,34743.68,Público,5,Sim
+55,79,Masculino,Emergência,2023-02-09 00:00:00,2023-02-12 00:00:00,3,Apêndice,Medicação,Gastroenterologia,Alta,16212.18,Público,1,Não
+56,86,Feminino,Eletiva,2023-09-23 00:00:00,2023-10-18 00:00:00,25,Pneumonia,Cirurgia,Clínica Geral,Alta,38258.94,Privado,5,Não
+57,36,Masculino,Transferência,2023-03-22 00:00:00,2023-04-18 00:00:00,27,Fratura,Medicação,Clínica Geral,Alta,28419.06,Privado,1,Não
+58,40,Masculino,Emergência,2023-08-14 00:00:00,2023-09-08 00:00:00,25,Pneumonia,Fisioterapia,Ortopedia,Alta,27197.8,Particular,4,Não
+59,38,Feminino,Transferência,2023-06-03 00:00:00,2023-06-19 00:00:00,16,Fratura,Medicação,Ortopedia,Alta,21271.74,Privado,5,Não
+60,78,Feminino,Emergência,2023-10-18 00:00:00,2023-11-09 00:00:00,22,Pneumonia,Fisioterapia,Ortopedia,Alta,23932.7,Público,2,Não
+61,50,Masculino,Emergência,2023-03-22 00:00:00,2023-04-03 00:00:00,12,Apêndice,Medicação,Cardiologia,Transferido,20677.29,Público,4,Não
+62,40,Masculino,Eletiva,2023-09-02 00:00:00,2023-09-23 00:00:00,21,Pneumonia,Medicação,Clínica Geral,Alta,25139.11,Privado,2,Não
+63,55,Masculino,Eletiva,2023-08-25 00:00:00,2023-09-20 00:00:00,26,Pneumonia,Medicação,Cardiologia,Alta,28148.8,Público,4,Não
+64,57,Feminino,Emergência,2023-03-10 00:00:00,2023-03-12 00:00:00,2,Diabetes,Medicação,Clínica Geral,Alta,14828.14,Público,5,Não
+65,58,Masculino,Transferência,2023-11-20 00:00:00,2023-12-08 00:00:00,18,Infarto,Medicação,Cardiologia,Alta,32938.86,Privado,5,Não
+66,64,Masculino,Transferência,2023-03-11 00:00:00,2023-04-05 00:00:00,25,Fratura,Cirurgia,Cardiologia,Óbito,40552.12,Privado,1,Sim
+67,69,Feminino,Emergência,2023-09-22 00:00:00,2023-10-18 00:00:00,26,Diabetes,Medicação,Ortopedia,Transferido,27284.14,Público,4,Não
+68,56,Feminino,Emergência,2023-07-23 00:00:00,2023-08-01 00:00:00,9,Pneumonia,Fisioterapia,Gastroenterologia,Alta,16147.16,Público,4,Não
+69,38,Masculino,Emergência,2023-03-01 00:00:00,2023-03-09 00:00:00,8,Apêndice,Medicação,Ortopedia,Transferido,19665.41,Privado,3,Não
+70,76,Feminino,Eletiva,2023-08-12 00:00:00,2023-08-21 00:00:00,9,Pneumonia,Fisioterapia,Ortopedia,Alta,17565.68,Privado,1,Não
+71,85,Masculino,Transferência,2023-06-25 00:00:00,2023-07-20 00:00:00,25,Diabetes,Medicação,Clínica Geral,Alta,27725.26,Público,2,Não
+72,50,Feminino,Eletiva,2023-08-15 00:00:00,2023-09-02 00:00:00,18,Apêndice,Fisioterapia,Gastroenterologia,Transferido,22441.5,Público,5,Não
+73,63,Masculino,Emergência,2023-09-17 00:00:00,2023-10-15 00:00:00,28,Pneumonia,Medicação,Clínica Geral,Óbito,28827.81,Privado,2,Não
+74,66,Feminino,Transferência,2023-09-01 00:00:00,2023-09-07 00:00:00,6,Infarto,Medicação,Clínica Geral,Alta,31018.66,Público,5,Não
+75,33,Masculino,Emergência,2023-06-03 00:00:00,2023-06-19 00:00:00,16,Fratura,Medicação,Ortopedia,Alta,20970.09,Público,1,Não
+76,79,Masculino,Emergência,2023-08-14 00:00:00,2023-08-16 00:00:00,2,Diabetes,Cirurgia,Ortopedia,Alta,28532.13,Público,3,Não
+77,65,Masculino,Emergência,2023-01-28 00:00:00,2023-02-14 00:00:00,17,Infarto,Cirurgia,Cardiologia,Alta,49487.6,Público,2,Não
+78,66,Feminino,Eletiva,2023-12-07 00:00:00,2023-12-19 00:00:00,12,Apêndice,Fisioterapia,Gastroenterologia,Alta,21568.12,Público,4,Sim
+79,57,Feminino,Eletiva,2023-11-09 00:00:00,2023-11-20 00:00:00,11,Apêndice,Medicação,Clínica Geral,Alta,20023.27,Privado,4,Não
+80,23,Feminino,Emergência,2023-11-20 00:00:00,2023-12-08 00:00:00,18,Infarto,Cirurgia,Ortopedia,Alta,49774.96,Público,5,Não
+81,63,Masculino,Eletiva,2023-01-09 00:00:00,2023-01-11 00:00:00,2,Fratura,Fisioterapia,Clínica Geral,Alta,15684.06,Público,2,Não
+82,35,Masculino,Emergência,2023-05-18 00:00:00,2023-06-02 00:00:00,15,Infarto,Medicação,Cardiologia,Óbito,32306.94,Público,1,Não
+83,62,Feminino,Eletiva,2023-08-27 00:00:00,2023-09-08 00:00:00,12,Pneumonia,Medicação,Ortopedia,Transferido,19688.4,Público,2,Não
+84,56,Feminino,Emergência,2023-05-24 00:00:00,2023-06-05 00:00:00,12,Apêndice,Cirurgia,Clínica Geral,Alta,32050.81,Privado,1,Não
+85,76,Feminino,Eletiva,2023-08-25 00:00:00,2023-09-08 00:00:00,14,Pneumonia,Fisioterapia,Gastroenterologia,Alta,20977.37,Privado,3,Não
+86,80,Masculino,Emergência,2023-07-29 00:00:00,2023-08-01 00:00:00,3,Fratura,Medicação,Gastroenterologia,Alta,16110.15,Público,4,Não
+87,65,Masculino,Eletiva,2023-03-10 00:00:00,2023-04-03 00:00:00,24,Pneumonia,Medicação,Ortopedia,Alta,27196.26,Público,5,Não
+88,66,Masculino,Emergência,2023-08-16 00:00:00,2023-08-27 00:00:00,11,Diabetes,Medicação,Cardiologia,Alta,18977.83,Privado,4,Não
+89,57,Feminino,Transferência,2023-11-20 00:00:00,2023-12-07 00:00:00,17,Infarto,Fisioterapia,Clínica Geral,Alta,32415.82,Público,3,Não
+90,64,Feminino,Eletiva,2023-03-11 00:00:00,2023-04-08 00:00:00,28,Infarto,Medicação,Ortopedia,Alta,37039.67,Privado,4,Não
+91,28,Masculino,Emergência,2023-09-22 00:00:00,2023-10-09 00:00:00,17,Fratura,Fisioterapia,Gastroenterologia,Alta,22165.75,Privado,5,Não
+92,67,Feminino,Emergência,2023-07-23 00:00:00,2023-08-06 00:00:00,14,Diabetes,Medicação,Ortopedia,Óbito,20689.69,Público,1,Não
+93,48,Masculino,Emergência,2023-03-01 00:00:00,2023-03-08 00:00:00,7,Pneumonia,Fisioterapia,Gastroenterologia,Alta,17029.23,Público,2,Não
+94,45,Masculino,Emergência,2023-08-12 00:00:00,2023-09-02 00:00:00,21,Diabetes,Medicação,Ortopedia,Alta,27893.59,Privado,1,Não
+95,33,Feminino,Transferência,2023-06-25 00:00:00,2023-07-06 00:00:00,11,Pneumonia,Cirurgia,Clínica Geral,Alta,32194.21,Público,1,Não
+96,49,Feminino,Emergência,2023-08-15 00:00:00,2023-09-11 00:00:00,27,Fratura,Medicação,Gastroenterologia,Transferido,27271.74,Público,5,Não
+97,33,Masculino,Emergência,2023-09-17 00:00:00,2023-10-14 00:00:00,27,Pneumonia,Medicação,Ortopedia,Alta,29457.77,Público,2,Sim
+98,73,Masculino,Emergência,2023-09-01 00:00:00,2023-09-08 00:00:00,7,Fratura,Fisioterapia,Clínica Geral,Transferido,16001.29,Privado,2,Não
+99,64,Feminino,Emergência,2023-11-23 00:00:00,2023-12-16 00:00:00,23,Fratura,Cirurgia,Cardiologia,Alta,39186.1,Público,1,Não
+100,32,Masculino,Eletiva,2023-09-21 00:00:00,2023-10-18 00:00:00,27,Apêndice,Medicação,Gastroenterologia,Alta,26749.03,Público,2,Não
+101,56,Feminino,Eletiva,2023-05-23 00:00:00,2023-06-03 00:00:00,11,Pneumonia,Cirurgia,Ortopedia,Alta,32537.95,Privado,4,Não
+102,68,Masculino,Transferência,2023-09-23 00:00:00,2023-10-04 00:00:00,11,Pneumonia,Medicação,Gastroenterologia,Alta,18788.08,Público,1,Não
+103,63,Feminino,Eletiva,2023-09-23 00:00:00,2023-10-09 00:00:00,16,Fratura,Medicação,Cardiologia,Alta,20977.87,Público,5,Não
+104,66,Masculino,Transferência,2023-06-25 00:00:00,2023-07-21 00:00:00,26,Pneumonia,Medicação,Ortopedia,Alta,26671.91,Público,5,Não
+105,70,Masculino,Emergência,2023-04-18 00:00:00,2023-05-06 00:00:00,18,Pneumonia,Medicação,Cardiologia,Alta,22964.84,Privado,4,Sim
+106,40,Feminino,Emergência,2023-06-20 00:00:00,2023-07-16 00:00:00,26,Infarto,Cirurgia,Gastroenterologia,Alta,53676.81,Privado,2,Não
+107,63,Feminino,Emergência,2023-02-09 00:00:00,2023-03-01 00:00:00,20,Diabetes,Cirurgia,Clínica Geral,Óbito,35878.85,Privado,5,Não
+108,36,Feminino,Eletiva,2023-05-23 00:00:00,2023-06-21 00:00:00,29,Fratura,Fisioterapia,Gastroenterologia,Transferido,29618.3,Privado,3,Não
+109,45,Masculino,Eletiva,2023-08-25 00:00:00,2023-09-02 00:00:00,8,Diabetes,Medicação,Clínica Geral,Transferido,15967.63,Público,4,Não
+110,39,Masculino,Emergência,2023-08-01 00:00:00,2023-08-22 00:00:00,21,Pneumonia,Medicação,Cardiologia,Alta,25372.93,Privado,3,Não
+111,21,Feminino,Eletiva,2023-02-14 00:00:00,2023-03-01 00:00:00,15,Infarto,Medicação,Gastroenterologia,Alta,32170.83,Público,1,Não
+112,57,Feminino,Emergência,2023-11-20 00:00:00,2023-12-07 00:00:00,17,Diabetes,Medicação,Clínica Geral,Óbito,21981.82,Público,2,Não
+113,69,Masculino,Emergência,2023-03-05 00:00:00,2023-03-24 00:00:00,19,Fratura,Fisioterapia,Ortopedia,Transferido,24388.94,Privado,3,Não
+114,45,Feminino,Emergência,2023-02-18 00:00:00,2023-03-09 00:00:00,19,Infarto,Medicação,Clínica Geral,Alta,33504.64,Público,1,Não
+115,21,Masculino,Eletiva,2023-10-09 00:00:00,2023-10-25 00:00:00,16,Apêndice,Fisioterapia,Gastroenterologia,Transferido,22079.16,Público,2,Não
+116,70,Masculino,Emergência,2023-09-02 00:00:00,2023-09-07 00:00:00,5,Pneumonia,Fisioterapia,Clínica Geral,Alta,15949.11,Público,1,Não
+117,38,Masculino,Transferência,2023-11-20 00:00:00,2023-12-09 00:00:00,19,Diabetes,Medicação,Ortopedia,Alta,24915.2,Público,2,Não
+118,67,Feminino,Emergência,2023-05-18 00:00:00,2023-06-05 00:00:00,18,Infarto,Cirurgia,Clínica Geral,Alta,50130.63,Público,5,Não
+119,21,Masculino,Emergência,2023-08-01 00:00:00,2023-08-08 00:00:00,7,Fratura,Fisioterapia,Clínica Geral,Transferido,16008.28,Público,3,Não
+120,80,Masculino,Emergência,2023-07-28 00:00:00,2023-08-16 00:00:00,19,Fratura,Fisioterapia,Gastroenterologia,Alta,25049.23,Público,2,Não
+121,50,Masculino,Emergência,2023-11-20 00:00:00,2023-12-02 00:00:00,12,Infarto,Fisioterapia,Clínica Geral,Alta,32170.83,Privado,5,Não
+122,23,Feminino,Eletiva,2023-06-25 00:00:00,2023-07-16 00:00:00,21,Pneumonia,Medicação,Cardiologia,Alta,25686.08,Público,5,Não
+123,79,Masculino,Emergência,2023-02-09 00:00:00,2023-02-19 00:00:00,10,Infarto,Medicação,Gastroenterologia,Transferido,31926.86,Público,3,Não
+124,86,Feminino,Eletiva,2023-09-23 00:00:00,2023-10-09 00:00:00,16,Infarto,Cirurgia,Clínica Geral,Alta,47043.68,Privado,2,Não
+125,36,Masculino,Transferência,2023-03-22 00:00:00,2023-04-16 00:00:00,25,Fratura,Medicação,Clínica Geral,Alta,26588.66,Privado,4,Sim
+126,40,Masculino,Emergência,2023-08-14 00:00:00,2023-09-08 00:00:00,25,Apêndice,Cirurgia,Ortopedia,Transferido,41091.24,Particular,4,Não
+127,38,Feminino,Transferência,2023-06-03 00:00:00,2023-06-16 00:00:00,13,Fratura,Fisioterapia,Ortopedia,Alta,19565.37,Privado,1,Não
+128,78,Feminino,Emergência,2023-10-18 00:00:00,2023-11-13 00:00:00,26,Pneumonia,Medicação,Ortopedia,Transferido,27051.84,Público,5,Não
+129,50,Masculino,Emergência,2023-03-22 00:00:00,2023-04-18 00:00:00,27,Pneumonia,Fisioterapia,Cardiologia,Alta,27926.17,Público,2,Não
+130,40,Masculino,Eletiva,2023-09-02 00:00:00,2023-09-04 00:00:00,2,Diabetes,Fisioterapia,Clínica Geral,Transferido,14088.16,Privado,4,Não
+131,55,Masculino,Eletiva,2023-08-25 00:00:00,2023-09-17 00:00:00,23,Apêndice,Medicação,Cardiologia,Alta,25816.66,Público,4,Não
+132,57,Feminino,Emergência,2023-03-10 00:00:00,2023-04-06 00:00:00,27,Apêndice,Cirurgia,Clínica Geral,Alta,43118.0,Público,1,Não
+133,58,Masculino,Transferência,2023-11-20 00:00:00,2023-12-14 00:00:00,24,Diabetes,Medicação,Cardiologia,Alta,27196.26,Privado,2,Não
+134,64,Masculino,Transferência,2023-03-11 00:00:00,2023-04-03 00:00:00,23,Apêndice,Medicação,Cardiologia,Alta,25916.32,Privado,1,Não
+135,69,Feminino,Emergência,2023-09-22 00:00:00,2023-10-18 00:00:00,26,Pneumonia,Medicação,Ortopedia,Óbito,27457.77,Público,3,Não
+136,56,Feminino,Emergência,2023-07-23 00:00:00,2023-08-16 00:00:00,24,Apêndice,Medicação,Gastroenterologia,Alta,27122.9,Público,1,Não
+137,38,Masculino,Emergência,2023-03-01 00:00:00,2023-03-09 00:00:00,8,Fratura,Fisioterapia,Ortopedia,Transferido,17512.44,Privado,5,Sim
+138,76,Feminino,Eletiva,2023-08-12 00:00:00,2023-08-19 00:00:00,7,Diabetes,Medicação,Ortopedia,Alta,15638.16,Privado,5,Não
+139,85,Masculino,Transferência,2023-06-25 00:00:00,2023-07-06 00:00:00,11,Pneumonia,Fisioterapia,Clínica Geral,Transferido,18788.08,Público,5,Não
+140,50,Feminino,Eletiva,2023-08-15 00:00:00,2023-09-02 00:00:00,18,Fratura,Medicação,Gastroenterologia,Óbito,24595.6,Público,1,Não
+141,63,Masculino,Emergência,2023-09-17 00:00:00,2023-10-09 00:00:00,22,Infarto,Cirurgia,Clínica Geral,Alta,53205.51,Privado,4,Não
+142,66,Feminino,Transferência,2023-09-01 00:00:00,2023-09-24 00:00:00,23,Fratura,Cirurgia,Clínica Geral,Alta,39634.34,Público,3,Não
+143,33,Masculino,Emergência,2023-06-03 00:00:00,2023-06-25 00:00:00,22,Pneumonia,Fisioterapia,Ortopedia,Alta,24915.69,Público,1,Não
+144,79,Masculino,Emergência,2023-08-14 00:00:00,2023-08-16 00:00:00,2,Diabetes,Cirurgia,Ortopedia,Alta,28532.13,Público,3,Não
+145,65,Masculino,Emergência,2023-01-28 00:00:00,2023-02-17 00:00:00,20,Infarto,Fisioterapia,Cardiologia,Transferido,34798.24,Público,3,Não
+146,66,Feminino,Eletiva,2023-12-07 00:00:00,2023-12-25 00:00:00,18,Fratura,Medicação,Gastroenterologia,Óbito,24840.42,Público,5,Não
+147,57,Feminino,Eletiva,2023-11-09 00:00:00,2023-12-01 00:00:00,22,Pneumonia,Cirurgia,Clínica Geral,Alta,38258.94,Privado,4,Não
+148,23,Feminino,Emergência,2023-11-20 00:00:00,2023-12-14 00:00:00,24,Apêndice,Fisioterapia,Ortopedia,Alta,26410.59,Público,1,Não
+149,63,Masculino,Eletiva,2023-01-09 00:00:00,2023-01-18 00:00:00,9,Diabetes,Medicação,Clínica Geral,Alta,17711.05,Público,4,Sim
+150,35,Masculino,Emergência,2023-05-18 00:00:00,2023-06-03 00:00:00,16,Diabetes,Medicação,Cardiologia,Transferido,21665.25,Público,1,Não
+151,62,Feminino,Eletiva,2023-08-27 00:00:00,2023-09-08 00:00:00,12,Apêndice,Fisioterapia,Ortopedia,Alta,18933.25,Público,2,Não
+152,56,Feminino,Emergência,2023-05-24 00:00:00,2023-06-19 00:00:00,26,Pneumonia,Medicação,Clínica Geral,Alta,27051.84,Privado,1,Não
+153,76,Feminino,Eletiva,2023-08-25 00:00:00,2023-09-17 00:00:00,23,Fratura,Medicação,Gastroenterologia,Alta,25816.66,Privado,5,Não
+154,80,Masculino,Emergência,2023-07-29 00:00:00,2023-08-01 00:00:00,3,Apêndice,Cirurgia,Gastroenterologia,Transferido,27064.08,Público,3,Não
+155,65,Masculino,Eletiva,2023-03-10 00:00:00,2023-03-24 00:00:00,14,Apêndice,Medicação,Ortopedia,Alta,20141.02,Público,4,Não
+156,66,Masculino,Emergência,2023-08-16 00:00:00,2023-09-03 00:00:00,18,Infarto,Fisioterapia,Cardiologia,Alta,32938.86,Privado,1,Não
+157,57,Feminino,Transferência,2023-11-20 00:00:00,2023-12-07 00:00:00,17,Apêndice,Medicação,Clínica Geral,Óbito,22915.69,Público,1,Não
+158,64,Feminino,Eletiva,2023-03-11 00:00:00,2023-04-06 00:00:00,26,Fratura,Fisioterapia,Ortopedia,Alta,28419.06,Privado,5,Não
+159,28,Masculino,Emergência,2023-09-22 00:00:00,2023-10-18 00:00:00,26,Fratura,Medicação,Gastroenterologia,Alta,27192.21,Privado,4,Não
+160,67,Feminino,Emergência,2023-07-23 00:00:00,2023-08-11 00:00:00,19,Pneumonia,Fisioterapia,Ortopedia,Óbito,23746.43,Público,5,Não
+161,48,Masculino,Emergência,2023-03-01 00:00:00,2023-03-05 00:00:00,4,Infarto,Fisioterapia,Gastroenterologia,Transferido,27050.53,Público,2,Não
+162,45,Masculino,Emergência,2023-08-12 00:00:00,2023-09-02 00:00:00,21,Diabetes,Fisioterapia,Ortopedia,Alta,25437.06,Privado,4,Não
+163,33,Feminino,Transferência,2023-06-25 00:00:00,2023-07-15 00:00:00,20,Fratura,Fisioterapia,Clínica Geral,Alta,24840.42,Público,1,Não
+164,49,Feminino,Emergência,2023-08-15 00:00:00,2023-09-08 00:00:00,24,Apêndice,Medicação,Gastroenterologia,Alta,27051.84,Público,3,Não
+165,33,Masculino,Emergência,2023-09-17 00:00:00,2023-10-09 00:00:00,22,Apêndice,Cirurgia,Ortopedia,Alta,40798.83,Público,5,Não
+166,73,Masculino,Emergência,2023-09-01 00:00:00,2023-09-24 00:00:00,23,Infarto,Medicação,Clínica Geral,Transferido,34798.24,Privado,4,Não
+167,64,Feminino,Emergência,2023-11-23 00:00:00,2023-12-16 00:00:00,23,Infarto,Cirurgia,Cardiologia,Alta,51091.24,Público,5,Não
+168,32,Masculino,Eletiva,2023-09-21 00:00:00,2023-10-14 00:00:00,23,Apêndice,Medicação,Gastroenterologia,Alta,25816.66,Público,4,Não
+169,56,Feminino,Eletiva,2023-05-23 00:00:00,2023-06-21 00:00:00,29,Infarto,Medicação,Ortopedia,Transferido,37648.51,Privado,1,Não
+170,68,Masculino,Transferência,2023-09-23 00:00:00,2023-10-18 00:00:00,25,Apêndice,Medicação,Gastroenterologia,Alta,27419.06,Público,2,Não
+171,63,Feminino,Eletiva,2023-09-23 00:00:00,2023-10-03 00:00:00,10,Apêndice,Fisioterapia,Cardiologia,Alta,18526.46,Público,2,Não
+172,66,Masculino,Transferência,2023-06-25 00:00:00,2023-07-20 00:00:00,25,Infarto,Cirurgia,Ortopedia,Alta,51862.0,Público,1,Não
+173,70,Masculino,Emergência,2023-04-18 00:00:00,2023-05-18 00:00:00,30,Pneumonia,Fisioterapia,Cardiologia,Alta,28419.06,Privado,1,Sim
+174,40,Feminino,Emergência,2023-06-20 00:00:00,2023-07-16 00:00:00,26,Pneumonia,Medicação,Gastroenterologia,Transferido,27083.56,Privado,3,Não
+175,63,Feminino,Emergência,2023-02-09 00:00:00,2023-03-01 00:00:00,20,Apêndice,Medicação,Clínica Geral,Alta,23932.7,Privado,4,Não
+176,36,Feminino,Eletiva,2023-05-23 00:00:00,2023-06-15 00:00:00,23,Infarto,Fisioterapia,Gastroenterologia,Óbito,34509.33,Privado,4,Não
+177,45,Masculino,Eletiva,2023-08-25 00:00:00,2023-09-02 00:00:00,8,Fratura,Medicação,Clínica Geral,Transferido,16075.39,Público,5,Não
+178,39,Masculino,Emergência,2023-08-01 00:00:00,2023-08-15 00:00:00,14,Diabetes,Cirurgia,Cardiologia,Alta,34050.53,Privado,2,Não
+179,21,Feminino,Eletiva,2023-02-14 00:00:00,2023-02-23 00:00:00,9,Pneumonia,Medicação,Gastroenterologia,Alta,17467.43,Público,1,Não
+180,57,Feminino,Emergência,2023-11-20 00:00:00,2023-12-14 00:00:00,24,Apêndice,Medicação,Clínica Geral,Transferido,27122.9,Público,1,Não
+181,69,Masculino,Emergência,2023-03-05 00:00:00,2023-03-24 00:00:00,19,Pneumonia,Cirurgia,Ortopedia,Alta,38862.33,Privado,3,Não
+182,45,Feminino,Emergência,2023-02-18 00:00:00,2023-03-11 00:00:00,21,Apêndice,Medicação,Clínica Geral,Alta,25139.11,Público,5,Não
+183,21,Masculino,Eletiva,2023-10-09 00:00:00,2023-10-11 00:00:00,2,Diabetes,Cirurgia,Gastroenterologia,Transferido,28148.8,Público,4,Não
+184,70,Masculino,Emergência,2023-09-02 00:00:00,2023-09-25 00:00:00,23,Fratura,Fisioterapia,Clínica Geral,Alta,25816.66,Público,1,Não
+185,38,Masculino,Transferência,2023-11-20 00:00:00,2023-12-17 00:00:00,27,Diabetes,Medicação,Ortopedia,Alta,28087.97,Público,3,Não
+186,67,Feminino,Emergência,2023-05-18 00:00:00,2023-06-03 00:00:00,16,Pneumonia,Cirurgia,Clínica Geral,Óbito,35158.0,Público,3,Não
+187,21,Masculino,Emergência,2023-08-01 00:00:00,2023-08-16 00:00:00,15,Infarto,Medicação,Clínica Geral,Alta,32415.82,Público,5,Não
+188,80,Masculino,Emergência,2023-07-28 00:00:00,2023-08-18 00:00:00,21,Apêndice,Medicação,Gastroenterologia,Alta,25139.11,Público,4,Sim
+189,50,Masculino,Emergência,2023-11-20 00:00:00,2023-12-07 00:00:00,17,Infarto,Fisioterapia,Clínica Geral,Alta,32938.86,Privado,1,Não
+190,23,Feminino,Eletiva,2023-06-25 00:00:00,2023-07-06 00:00:00,11,Apêndice,Medicação,Cardiologia,Alta,20023.27,Público,4,Não
+191,79,Masculino,Emergência,2023-02-09 00:00:00,2023-02-18 00:00:00,9,Apêndice,Fisioterapia,Gastroenterologia,Alta,17805.29,Público,3,Não
+192,86,Feminino,Eletiva,2023-09-23 00:00:00,2023-10-18 00:00:00,25,Apêndice,Medicação,Clínica Geral,Alta,27284.14,Privado,1,Não
+193,36,Masculino,Transferência,2023-03-22 00:00:00,2023-04-09 00:00:00,18,Infarto,Medicação,Clínica Geral,Transferido,33144.1,Privado,5,Não
+194,40,Masculino,Emergência,2023-08-14 00:00:00,2023-09-08 00:00:00,25,Fratura,Fisioterapia,Ortopedia,Alta,26410.59,Particular,2,Não
+195,38,Feminino,Transferência,2023-06-03 00:00:00,2023-06-16 00:00:00,13,Infarto,Medicação,Ortopedia,Alta,32050.81,Privado,4,Não
+196,78,Feminino,Emergência,2023-10-18 00:00:00,2023-11-13 00:00:00,26,Diabetes,Medicação,Ortopedia,Transferido,27376.11,Público,2,Não
+197,50,Masculino,Emergência,2023-03-22 00:00:00,2023-04-18 00:00:00,27,Fratura,Fisioterapia,Cardiologia,Alta,27658.96,Público,5,Não
+198,40,Masculino,Eletiva,2023-09-02 00:00:00,2023-09-21 00:00:00,19,Pneumonia,Medicação,Clínica Geral,Alta,23985.69,Privado,1,Não
+199,55,Masculino,Eletiva,2023-08-25 00:00:00,2023-09-17 00:00:00,23,Infarto,Medicação,Cardiologia,Alta,35252.88,Público,2,Não
+200,57,Feminino,Emergência,2023-03-10 00:00:00,2023-04-02 00:00:00,23,Diabetes,Medicação,Clínica Geral,Transferido,27284.14,Público,3,Não
+201,58,Masculino,Transferência,2023-11-20 00:00:00,2023-12-14 00:00:00,24,Pneumonia,Medicação,Cardiologia,Alta,27196.26,Privado,4,Não
+202,64,Masculino,Transferência,2023-03-11 00:00:00,2023-03-28 00:00:00,17,Infarto,Cirurgia,Cardiologia,Alta,47007.82,Privado,3,Não
+203,69,Feminino,Emergência,2023-09-22 00:00:00,2023-10-15 00:00:00,23,Pneumonia,Medicação,Ortopedia,Alta,25816.66,Público,5,Não
+204,56,Feminino,Emergência,2023-07-23 00:00:00,2023-08-01 00:00:00,9,Pneumonia,Fisioterapia,Gastroenterologia,Óbito,18469.75,Público,4,Não
+205,38,Masculino,Emergência,2023-03-01 00:00:00,2023-03-09 00:00:00,8,Pneumonia,Medicação,Ortopedia,Alta,18449.65,Privado,1,Não
+206,76,Feminino,Eletiva,2023-08-12 00:00:00,2023-08-25 00:00:00,13,Fratura,Fisioterapia,Ortopedia,Alta,20141.02,Privado,4,Não
+207,85,Masculino,Transferência,2023-06-25 00:00:00,2023-07-21 00:00:00,26,Diabetes,Medicação,Clínica Geral,Alta,27051.84,Público,5,Não
+208,50,Feminino,Eletiva,2023-08-15 00:00:00,2023-09-02 00:00:00,18,Infarto,Medicação,Gastroenterologia,Alta,32938.86,Público,2,Não
+209,63,Masculino,Emergência,2023-09-17 00:00:00,2023-10-10 00:00:00,23,Fratura,Medicação,Clínica Geral,Alta,25916.32,Privado,5,Sim
+210,66,Feminino,Transferência,2023-09-01 00:00:00,2023-09-18 00:00:00,17,Infarto,Medicação,Clínica Geral,Alta,32742.66,Público,4,Não
+211,33,Masculino,Emergência,2023-06-03 00:00:00,2023-06-19 00:00:00,16,Fratura,Medicação,Ortopedia,Alta,21545.97,Público,2,Não
+212,79,Masculino,Emergência,2023-08-14 00:00:00,2023-08-27 00:00:00,13,Apêndice,Cirurgia,Ortopedia,Transferido,34792.05,Público,5,Não
+213,65,Masculino,Emergência,2023-01-28 00:00:00,2023-02-18 00:00:00,21,Infarto,Medicação,Cardiologia,Alta,34050.53,Público,4,Não
+214,66,Feminino,Eletiva,2023-12-07 00:00:00,2023-12-16 00:00:00,9,Pneumonia,Medicação,Gastroenterologia,Transferido,17565.68,Público,3,Não
+215,57,Feminino,Eletiva,2023-11-09 00:00:00,2023-12-01 00:00:00,22,Fratura,Medicação,Clínica Geral,Alta,25686.08,Privado,1,Não
+216,23,Feminino,Emergência,2023-11-20 00:00:00,2023-12-14 00:00:00,24,Apêndice,Fisioterapia,Ortopedia,Alta,26410.59,Público,3,Não
+217,63,Masculino,Eletiva,2023-01-09 00:00:00,2023-01-26 00:00:00,17,Apêndice,Medicação,Clínica Geral,Óbito,22915.69,Público,5,Não
+218,35,Masculino,Emergência,2023-05-18 00:00:00,2023-06-03 00:00:00,16,Fratura,Medicação,Cardiologia,Alta,21271.74,Público,4,Não
+219,62,Feminino,Eletiva,2023-08-27 00:00:00,2023-09-24 00:00:00,28,Pneumonia,Fisioterapia,Ortopedia,Alta,27926.17,Público,5,Não
+220,56,Feminino,Emergência,2023-05-24 00:00:00,2023-06-19 00:00:00,26,Apêndice,Medicação,Clínica Geral,Alta,27376.11,Privado,1,Não
+221,76,Feminino,Eletiva,2023-08-25 00:00:00,2023-09-08 00:00:00,14,Diabetes,Fisioterapia,Gastroenterologia,Alta,20858.94,Privado,3,Não
+222,80,Masculino,Emergência,2023-07-29 00:00:00,2023-08-23 00:00:00,25,Apêndice,Medicação,Gastroenterologia,Alta,27051.84,Público,1,Não
+223,65,Masculino,Eletiva,2023-03-10 00:00:00,2023-03-17 00:00:00,7,Diabetes,Fisioterapia,Ortopedia,Alta,16162.29,Público,4,Não
+224,66,Masculino,Emergência,2023-08-16 00:00:00,2023-09-03 00:00:00,18,Fratura,Medicação,Cardiologia,Óbito,24595.6,Privado,5,Não
+225,57,Feminino,Transferência,2023-11-20 00:00:00,2023-12-16 00:00:00,26,Pneumonia,Medicação,Clínica Geral,Transferido,27083.56,Público,4,Não
+226,64,Feminino,Eletiva,2023-03-11 00:00:00,2023-04-03 00:00:00,23,Pneumonia,Fisioterapia,Ortopedia,Alta,25816.66,Privado,3,Não
+227,28,Masculino,Emergência,2023-09-22 00:00:00,2023-10-09 00:00:00,17,Infarto,Medicação,Gastroenterologia,Alta,32938.86,Privado,5,Não
+228,67,Feminino,Emergência,2023-07-23 00:00:00,2023-08-16 00:00:00,24,Apêndice,Medicação,Ortopedia,Transferido,26989.96,Público,4,Não
+229,48,Masculino,Emergência,2023-03-01 00:00:00,2023-03-09 00:00:00,8,Apêndice,Cirurgia,Gastroenterologia,Alta,30977.0,Público,5,Não
+230,45,Masculino,Emergência,2023-08-12 00:00:00,2023-09-03 00:00:00,22,Fratura,Medicação,Ortopedia,Alta,26274.62,Privado,3,Não
+231,33,Feminino,Transferência,2023-06-25 00:00:00,2023-07-16 00:00:00,21,Apêndice,Cirurgia,Clínica Geral,Alta,40552.12,Público,2,Não
+232,49,Feminino,Emergência,2023-08-15 00:00:00,2023-09-11 00:00:00,27,Fratura,Medicação,Gastroenterologia,Transferido,28646.61,Público,4,Não
+233,33,Masculino,Emergência,2023-09-17 00:00:00,2023-10-12 00:00:00,25,Infarto,Cirurgia,Ortopedia,Alta,51091.24,Público,5,Não
+234,73,Masculino,Emergência,2023-09-01 00:00:00,2023-09-24 00:00:00,23,Fratura,Fisioterapia,Clínica Geral,Alta,25816.66,Privado,1,Não
+235,64,Feminino,Emergência,2023-11-23 00:00:00,2023-12-16 00:00:00,23,Apêndice,Medicação,Cardiologia,Óbito,25816.66,Público,1,Não
+236,32,Masculino,Eletiva,2023-09-21 00:00:00,2023-10-18 00:00:00,27,Infarto,Medicação,Gastroenterologia,Transferido,36162.91,Público,2,Não
+237,56,Feminino,Eletiva,2023-05-23 00:00:00,2023-06-03 00:00:00,11,Pneumonia,Fisioterapia,Ortopedia,Alta,18947.88,Privado,4,Sim
+238,68,Masculino,Transferência,2023-09-23 00:00:00,2023-10-04 00:00:00,11,Fratura,Medicação,Gastroenterologia,Alta,18788.08,Público,4,Não
+239,63,Feminino,Eletiva,2023-09-23 00:00:00,2023-10-18 00:00:00,25,Apêndice,Fisioterapia,Cardiologia,Alta,26410.59,Público,1,Não
+240,66,Masculino,Transferência,2023-06-25 00:00:00,2023-07-06 00:00:00,11,Apêndice,Medicação,Ortopedia,Alta,20023.27,Público,3,Não
+241,70,Masculino,Emergência,2023-04-18 00:00:00,2023-05-06 00:00:00,18,Infarto,Medicação,Cardiologia,Alta,33504.64,Privado,3,Não
+242,40,Feminino,Emergência,2023-06-20 00:00:00,2023-07-16 00:00:00,26,Infarto,Medicação,Gastroenterologia,Alta,35874.5,Privado,4,Não
+243,63,Feminino,Emergência,2023-02-09 00:00:00,2023-02-23 00:00:00,14,Diabetes,Cirurgia,Clínica Geral,Alta,34509.33,Privado,3,Não
+244,36,Feminino,Eletiva,2023-05-23 00:00:00,2023-06-21 00:00:00,29,Infarto,Medicação,Gastroenterologia,Alta,36162.91,Privado,2,Não
+245,45,Masculino,Eletiva,2023-08-25 00:00:00,2023-09-02 00:00:00,8,Diabetes,Fisioterapia,Clínica Geral,Óbito,17007.82,Público,3,Sim
+246,39,Masculino,Emergência,2023-08-01 00:00:00,2023-08-11 00:00:00,10,Infarto,Medicação,Cardiologia,Alta,30064.9,Privado,3,Não
+247,21,Feminino,Eletiva,2023-02-14 00:00:00,2023-03-13 00:00:00,27,Apêndice,Fisioterapia,Gastroenterologia,Alta,27658.96,Público,2,Não
+248,57,Feminino,Emergência,2023-11-20 00:00:00,2023-12-07 00:00:00,17,Pneumonia,Medicação,Clínica Geral,Alta,22915.69,Público,5,Não
+249,69,Masculino,Emergência,2023-03-05 00:00:00,2023-03-12 00:00:00,7,Pneumonia,Cirurgia,Ortopedia,Transferido,31238.16,Privado,1,Não
+250,45,Feminino,Emergência,2023-02-18 00:00:00,2023-03-11 00:00:00,21,Pneumonia,Fisioterapia,Clínica Geral,Óbito,24915.69,Público,3,Não
+251,21,Masculino,Eletiva,2023-10-09 00:00:00,2023-10-22 00:00:00,13,Fratura,Medicação,Gastroenterologia,Transferido,19927.76,Público,1,Não
+252,70,Masculino,Emergência,2023-09-02 00:00:00,2023-09-17 00:00:00,15,Infarto,Medicação,Clínica Geral,Alta,32050.81,Público,3,Não
+253,38,Masculino,Transferência,2023-11-20 00:00:00,2023-12-10 00:00:00,20,Fratura,Medicação,Ortopedia,Alta,25049.23,Público,5,Não
+254,67,Feminino,Emergência,2023-05-18 00:00:00,2023-06-15 00:00:00,28,Pneumonia,Medicação,Clínica Geral,Transferido,28148.8,Público,1,Não
+255,21,Masculino,Emergência,2023-08-01 00:00:00,2023-08-16 00:00:00,15,Apêndice,Medicação,Clínica Geral,Alta,20970.09,Público,3,Não
+256,80,Masculino,Emergência,2023-07-28 00:00:00,2023-08-20 00:00:00,23,Fratura,Medicação,Gastroenterologia,Alta,26410.59,Público,2,Não
+257,50,Masculino,Emergência,2023-11-20 00:00:00,2023-12-14 00:00:00,24,Infarto,Medicação,Clínica Geral,Alta,35252.88,Privado,5,Não
+258,23,Feminino,Eletiva,2023-06-25 00:00:00,2023-07-23 00:00:00,28,Apêndice,Medicação,Cardiologia,Alta,28419.06,Público,4,Não
+259,79,Masculino,Emergência,2023-02-09 00:00:00,2023-03-06 00:00:00,25,Pneumonia,Medicação,Gastroenterologia,Óbito,26418.06,Público,5,Não
+260,86,Feminino,Eletiva,2023-09-23 00:00:00,2023-10-18 00:00:00,25,Apêndice,Medicação,Clínica Geral,Alta,27196.26,Privado,1,Não
+261,36,Masculino,Transferência,2023-03-22 00:00:00,2023-04-18 00:00:00,27,Infarto,Cirurgia,Clínica Geral,Alta,54005.18,Privado,2,Não
+262,40,Masculino,Emergência,2023-08-14 00:00:00,2023-09-08 00:00:00,25,Fratura,Fisioterapia,Ortopedia,Transferido,27197.8,Particular,4,Não
+263,38,Feminino,Transferência,2023-06-03 00:00:00,2023-06-21 00:00:00,18,Infarto,Fisioterapia,Ortopedia,Alta,32938.86,Privado,3,Não
+264,78,Feminino,Emergência,2023-10-18 00:00:00,2023-11-13 00:00:00,26,Apêndice,Medicação,Ortopedia,Alta,27192.21,Público,5,Não
+265,50,Masculino,Emergência,2023-03-22 00:00:00,2023-04-18 00:00:00,27,Pneumonia,Fisioterapia,Cardiologia,Alta,27926.17,Público,1,Sim
+266,40,Masculino,Eletiva,2023-09-02 00:00:00,2023-09-17 00:00:00,15,Fratura,Fisioterapia,Clínica Geral,Óbito,20858.94,Privado,5,Não
+267,55,Masculino,Eletiva,2023-08-25 00:00:00,2023-09-17 00:00:00,23,Apêndice,Fisioterapia,Cardiologia,Alta,26410.59,Público,3,Não
+268,57,Feminino,Emergência,2023-03-10 00:00:00,2023-03-22 00:00:00,12,Apêndice,Medicação,Clínica Geral,Alta,19688.4,Público,2,Não
+269,58,Masculino,Transferência,2023-11-20 00:00:00,2023-12-14 00:00:00,24,Pneumonia,Medicação,Cardiologia,Alta,27196.26,Privado,4,Não
+270,64,Masculino,Transferência,2023-03-11 00:00:00,2023-03-28 00:00:00,17,Fratura,Cirurgia,Cardiologia,Alta,36336.52,Privado,4,Não
+271,69,Feminino,Emergência,2023-09-22 00:00:00,2023-10-15 00:00:00,23,Pneumonia,Fisioterapia,Ortopedia,Alta,25816.66,Público,1,Não
+272,56,Feminino,Emergência,2023-07-23 00:00:00,2023-08-16 00:00:00,24,Infarto,Cirurgia,Gastroenterologia,Transferido,50552.12,Público,2,Não
+273,38,Masculino,Emergência,2023-03-01 00:00:00,2023-03-24 00:00:00,23,Diabetes,Medicação,Ortopedia,Óbito,25916.32,Privado,1,Não
+274,76,Feminino,Eletiva,2023-08-12 00:00:00,2023-08-25 00:00:00,13,Pneumonia,Fisioterapia,Ortopedia,Alta,20141.02,Privado,3,Não
+275,85,Masculino,Transferência,2023-06-25 00:00:00,2023-07-20 00:00:00,25,Infarto,Medicação,Clínica Geral,Transferido,35509.33,Público,4,Não
+276,50,Feminino,Eletiva,2023-08-15 00:00:00,2023-09-02 00:00:00,18,Infarto,Fisioterapia,Gastroenterologia,Alta,32938.86,Público,2,Não
+277,63,Masculino,Emergência,2023-09-17 00:00:00,2023-10-18 00:00:00,31,Pneumonia,Medicação,Clínica Geral,Alta,31698.81,Privado,1,Não
+278,66,Feminino,Transferência,2023-09-01 00:00:00,2023-09-24 00:00:00,23,Apêndice,Medicação,Clínica Geral,Alta,25816.66,Público,3,Não
+279,33,Masculino,Emergência,2023-06-03 00:00:00,2023-06-19 00:00:00,16,Pneumonia,Fisioterapia,Ortopedia,Alta,21545.97,Público,2,Sim
+280,79,Masculino,Emergência,2023-08-14 00:00:00,2023-08-20 00:00:00,6,Fratura,Fisioterapia,Ortopedia,Transferido,16001.29,Público,2,Não
+281,65,Masculino,Emergência,2023-01-28 00:00:00,2023-02-18 00:00:00,21,Apêndice,Medicação,Cardiologia,Alta,25139.11,Público,5,Não
+282,66,Feminino,Eletiva,2023-12-07 00:00:00,2023-12-25 00:00:00,18,Apêndice,Fisioterapia,Gastroenterologia,Alta,22441.5,Público,4,Não
+283,57,Feminino,Eletiva,2023-11-09 00:00:00,2023-11-20 00:00:00,11,Infarto,Cirurgia,Clínica Geral,Alta,44160.77,Privado,4,Não
+284,23,Feminino,Emergência,2023-11-20 00:00:00,2023-12-14 00:00:00,24,Apêndice,Medicação,Ortopedia,Alta,27122.9,Público,5,Não
+285,63,Masculino,Eletiva,2023-01-09 00:00:00,2023-01-26 00:00:00,17,Apêndice,Fisioterapia,Clínica Geral,Alta,22915.69,Público,1,Não
+286,35,Masculino,Emergência,2023-05-18 00:00:00,2023-06-02 00:00:00,15,Infarto,Cirurgia,Cardiologia,Óbito,47007.82,Público,3,Não
+287,62,Feminino,Eletiva,2023-08-27 00:00:00,2023-09-08 00:00:00,12,Fratura,Medicação,Ortopedia,Alta,19688.4,Público,3,Não
+288,56,Feminino,Emergência,2023-05-24 00:00:00,2023-06-19 00:00:00,26,Fratura,Medicação,Clínica Geral,Alta,28148.8,Privado,5,Não
+289,76,Feminino,Eletiva,2023-08-25 00:00:00,2023-09-08 00:00:00,14,Diabetes,Medicação,Gastroenterologia,Alta,20858.94,Privado,4,Não
+290,80,Masculino,Emergência,2023-07-29 00:00:00,2023-08-01 00:00:00,3,Pneumonia,Cirurgia,Gastroenterologia,Alta,29487.6,Público,1,Não
+291,65,Masculino,Eletiva,2023-03-10 00:00:00,2023-03-27 00:00:00,17,Infarto,Fisioterapia,Ortopedia,Transferido,32415.82,Público,5,Não
+292,66,Masculino,Emergência,2023-08-16 00:00:00,2023-09-03 00:00:00,18,Infarto,Fisioterapia,Cardiologia,Transferido,32938.86,Privado,3,Sim
+293,57,Feminino,Transferência,2023-11-20 00:00:00,2023-12-16 00:00:00,26,Pneumonia,Medicação,Clínica Geral,Alta,27192.21,Público,4,Não
+294,64,Feminino,Eletiva,2023-03-11 00:00:00,2023-04-03 00:00:00,23,Pneumonia,Fisioterapia,Ortopedia,Óbito,25916.32,Privado,3,Não
+295,28,Masculino,Emergência,2023-09-22 00:00:00,2023-10-09 00:00:00,17,Infarto,Medicação,Gastroenterologia,Alta,32938.86,Privado,5,Não
+296,67,Feminino,Emergência,2023-07-23 00:00:00,2023-08-16 00:00:00,24,Infarto,Cirurgia,Ortopedia,Alta,50552.12,Público,5,Não
+297,48,Masculino,Emergência,2023-03-01 00:00:00,2023-03-24 00:00:00,23,Apêndice,Fisioterapia,Gastroenterologia,Alta,25816.66,Público,1,Não
+298,45,Masculino,Emergência,2023-08-12 00:00:00,2023-09-03 00:00:00,22,Fratura,Medicação,Ortopedia,Alta,26274.62,Privado,2,Não
+299,33,Feminino,Transferência,2023-06-25 00:00:00,2023-07-16 00:00:00,21,Pneumonia,Medicação,Clínica Geral,Alta,25686.08,Público,1,Não
+300,49,Feminino,Emergência,2023-08-15 00:00:00,2023-09-11 00:00:00,27,Apêndice,Medicação,Gastroenterologia,Alta,28646.61,Público,4,Não
+301,33,Masculino,Emergência,2023-09-17 00:00:00,2023-10-12 00:00:00,25,Infarto,Medicação,Ortopedia,Transferido,35874.5,Público,4,Não
+302,73,Masculino,Emergência,2023-09-01 00:00:00,2023-09-24 00:00:00,23,Pneumonia,Fisioterapia,Clínica Geral,Alta,25816.66,Privado,5,Não
+303,64,Feminino,Emergência,2023-11-23 00:00:00,2023-12-16 00:00:00,23,Apêndice,Medicação,Cardiologia,Alta,25816.66,Público,5,Não
+304,32,Masculino,Eletiva,2023-09-21 00:00:00,2023-10-18 00:00:00,27,Fratura,Fisioterapia,Gastroenterologia,Alta,27658.96,Público,1,Não
+305,56,Feminino,Eletiva,2023-05-23 00:00:00,2023-06-03 00:00:00,11,Apêndice,Medicação,Ortopedia,Alta,19253.31,Privado,2,Não
+306,68,Masculino,Transferência,2023-09-23 00:00:00,2023-10-04 00:00:00,11,Fratura,Cirurgia,Gastroenterologia,Transferido,32537.95,Público,3,Não
+307,63,Feminino,Eletiva,2023-09-23 00:00:00,2023-10-18 00:00:00,25,Diabetes,Medicação,Cardiologia,Transferido,27051.84,Público,1,Não
+308,66,Masculino,Transferência,2023-06-25 00:00:00,2023-07-06 00:00:00,11,Pneumonia,Medicação,Ortopedia,Alta,18947.88,Público,4,Não
+309,70,Masculino,Emergência,2023-04-18 00:00:00,2023-05-06 00:00:00,18,Infarto,Medicação,Cardiologia,Alta,33504.64,Privado,3,Não
+310,40,Feminino,Emergência,2023-06-20 00:00:00,2023-07-16 00:00:00,26,Apêndice,Cirurgia,Gastroenterologia,Alta,43118.0,Privado,3,Não
+311,63,Feminino,Emergência,2023-02-09 00:00:00,2023-02-23 00:00:00,14,Diabetes,Fisioterapia,Clínica Geral,Óbito,20858.94,Privado,3,Não
+312,36,Feminino,Eletiva,2023-05-23 00:00:00,2023-06-21 00:00:00,29,Fratura,Medicação,Gastroenterologia,Alta,29457.77,Privado,1,Não
+313,45,Masculino,Eletiva,2023-08-25 00:00:00,2023-09-02 00:00:00,8,Infarto,Fisioterapia,Clínica Geral,Alta,29243.68,Público,1,Não
+314,39,Masculino,Emergência,2023-08-01 00:00:00,2023-08-11 00:00:00,10,Apêndice,Medicação,Cardiologia,Transferido,19177.0,Privado,4,Não
+315,21,Feminino,Eletiva,2023-02-14 00:00:00,2023-03-01 00:00:00,15,Apêndice,Cirurgia,Gastroenterologia,Alta,35252.88,Público,2,Não
+316,57,Feminino,Emergência,2023-11-20 00:00:00,2023-12-07 00:00:00,17,Pneumonia,Medicação,Clínica Geral,Alta,22915.69,Público,1,Não
+317,69,Masculino,Emergência,2023-03-05 00:00:00,2023-03-24 00:00:00,19,Fratura,Fisioterapia,Ortopedia,Transferido,24388.94,Privado,5,Não
+318,45,Feminino,Emergência,2023-02-18 00:00:00,2023-03-11 00:00:00,21,Pneumonia,Medicação,Clínica Geral,Transferido,25139.11,Público,3,Não
+319,21,Masculino,Eletiva,2023-10-09 00:00:00,2023-10-22 00:00:00,13,Infarto,Medicação,Gastroenterologia,Alta,32050.81,Público,4,Não
+320,70,Masculino,Emergência,2023-09-02 00:00:00,2023-09-17 00:00:00,15,Diabetes,Fisioterapia,Clínica Geral,Transferido,21183.18,Público,2,Não
+321,38,Masculino,Transferência,2023-11-20 00:00:00,2023-12-10 00:00:00,20,Pneumonia,Medicação,Ortopedia,Alta,24915.69,Público,4,Não
+322,67,Feminino,Emergência,2023-05-18 00:00:00,2023-06-03 00:00:00,16,Fratura,Fisioterapia,Clínica Geral,Alta,21545.97,Público,4,Não
+323,21,Masculino,Emergência,2023-08-01 00:00:00,2023-08-16 00:00:00,15,Pneumonia,Medicação,Clínica Geral,Alta,20970.09,Público,5,Não
+324,80,Masculino,Emergência,2023-07-28 00:00:00,2023-08-20 00:00:00,23,Fratura,Medicação,Gastroenterologia,Alta,26410.59,Público,1,Não
+325,50,Masculino,Emergência,2023-11-20 00:00:00,2023-12-14 00:00:00,24,Fratura,Medicação,Clínica Geral,Transferido,27051.84,Privado,2,Não
+326,23,Feminino,Eletiva,2023-06-25 00:00:00,2023-07-23 00:00:00,28,Apêndice,Medicação,Cardiologia,Alta,28419.06,Público,3,Não
+327,79,Masculino,Emergência,2023-02-09 00:00:00,2023-03-06 00:00:00,25,Infarto,Cirurgia,Gastroenterologia,Alta,51862.0,Público,4,Não
+328,86,Feminino,Eletiva,2023-09-23 00:00:00,2023-10-18 00:00:00,25,Pneumonia,Fisioterapia,Clínica Geral,Alta,27196.26,Privado,5,Não
+329,36,Masculino,Transferência,2023-03-22 00:00:00,2023-04-18 00:00:00,27,Apêndice,Cirurgia,Clínica Geral,Alta,43274.67,Privado,4,Não
+330,40,Masculino,Emergência,2023-08-14 00:00:00,2023-09-08 00:00:00,25,Pneumonia,Medicação,Ortopedia,Transferido,27051.84,Particular,5,Não
+331,38,Feminino,Transferência,2023-06-03 00:00:00,2023-06-21 00:00:00,18,Infarto,Medicação,Ortopedia,Transferido,32938.86,Privado,1,Não
+332,78,Feminino,Emergência,2023-10-18 00:00:00,2023-11-13 00:00:00,26,Pneumonia,Cirurgia,Ortopedia,Alta,42591.24,Público,3,Não
+333,50,Masculino,Emergência,2023-03-22 00:00:00,2023-04-18 00:00:00,27,Fratura,Medicação,Cardiologia,Óbito,26418.06,Público,5,Não
+334,40,Masculino,Eletiva,2023-09-02 00:00:00,2023-09-17 00:00:00,15,Infarto,Fisioterapia,Clínica Geral,Alta,32170.83,Privado,1,Sim
+335,55,Masculino,Eletiva,2023-08-25 00:00:00,2023-09-17 00:00:00,23,Infarto,Cirurgia,Cardiologia,Transferido,51091.24,Público,4,Não
+336,57,Feminino,Emergência,2023-03-10 00:00:00,2023-03-22 00:00:00,12,Infarto,Cirurgia,Clínica Geral,Óbito,44827.81,Público,4,Não
+337,58,Masculino,Transferência,2023-11-20 00:00:00,2023-12-14 00:00:00,24,Infarto,Fisioterapia,Cardiologia,Alta,35252.88,Privado,1,Não
+338,64,Masculino,Transferência,2023-03-11 00:00:00,2023-03-28 00:00:00,17,Pneumonia,Fisioterapia,Cardiologia,Alta,22119.38,Privado,2,Não
+339,69,Feminino,Emergência,2023-09-22 00:00:00,2023-10-15 00:00:00,23,Fratura,Medicação,Ortopedia,Alta,25816.66,Público,5,Não
+340,56,Feminino,Emergência,2023-07-23 00:00:00,2023-08-01 00:00:00,9,Pneumonia,Medicação,Gastroenterologia,Alta,18469.75,Público,4,Não
+341,38,Masculino,Emergência,2023-03-01 00:00:00,2023-03-24 00:00:00,23,Infarto,Medicação,Ortopedia,Transferido,35509.33,Privado,2,Não
+342,76,Feminino,Eletiva,2023-08-12 00:00:00,2023-08-25 00:00:00,13,Diabetes,Fisioterapia,Ortopedia,Alta,20141.02,Privado,1,Não
+343,85,Masculino,Transferência,2023-06-25 00:00:00,2023-07-20 00:00:00,25,Apêndice,Cirurgia,Clínica Geral,Alta,41862.0,Público,1,Não
+344,50,Feminino,Eletiva,2023-08-15 00:00:00,2023-09-02 00:00:00,18,Infarto,Cirurgia,Gastroenterologia,Alta,50130.63,Público,5,Não
+345,63,Masculino,Emergência,2023-09-17 00:00:00,2023-10-18 00:00:00,31,Apêndice,Fisioterapia,Clínica Geral,Alta,29457.77,Privado,5,Não
+346,66,Feminino,Transferência,2023-09-01 00:00:00,2023-09-24 00:00:00,23,Diabetes,Fisioterapia,Clínica Geral,Transferido,25816.66,Público,2,Não
+347,33,Masculino,Emergência,2023-06-03 00:00:00,2023-06-19 00:00:00,16,Infarto,Medicação,Ortopedia,Alta,32306.94,Público,3,Sim
+348,79,Masculino,Emergência,2023-08-14 00:00:00,2023-08-20 00:00:00,6,Pneumonia,Medicação,Ortopedia,Alta,16001.29,Público,4,Não
+349,65,Masculino,Emergência,2023-01-28 00:00:00,2023-02-18 00:00:00,21,Pneumonia,Fisioterapia,Cardiologia,Alta,24915.69,Público,5,Não
+350,66,Feminino,Eletiva,2023-12-07 00:00:00,2023-12-25 00:00:00,18,Fratura,Medicação,Gastroenterologia,Alta,24840.42,Público,1,Não
+351,57,Feminino,Eletiva,2023-11-09 00:00:00,2023-12-01 00:00:00,22,Infarto,Cirurgia,Clínica Geral,Transferido,50552.12,Privado,4,Não
+352,23,Feminino,Emergência,2023-11-20 00:00:00,2023-12-14 00:00:00,24,Apêndice,Medicação,Ortopedia,Alta,27122.9,Público,3,Não
+353,63,Masculino,Eletiva,2023-01-09 00:00:00,2023-01-26 00:00:00,17,Fratura,Medicação,Clínica Geral,Alta,22915.69,Público,5,Não
+354,35,Masculino,Emergência,2023-05-18 00:00:00,2023-06-03 00:00:00,16,Infarto,Cirurgia,Cardiologia,Alta,47043.68,Público,5,Não
+355,62,Feminino,Eletiva,2023-08-27 00:00:00,2023-09-08 00:00:00,12,Pneumonia,Medicação,Ortopedia,Transferido,19688.4,Público,2,Não
+356,56,Feminino,Emergência,2023-05-24 00:00:00,2023-06-19 00:00:00,26,Pneumonia,Fisioterapia,Clínica Geral,Alta,28419.06,Privado,5,Não
+357,76,Feminino,Eletiva,2023-08-25 00:00:00,2023-09-08 00:00:00,14,Infarto,Medicação,Gastroenterologia,Alta,32050.81,Privado,1,Não
+358,80,Masculino,Emergência,2023-07-29 00:00:00,2023-08-01 00:00:00,3,Infarto,Cirurgia,Gastroenterologia,Transferido,44737.52,Público,3,Não
+359,65,Masculino,Eletiva,2023-03-10 00:00:00,2023-03-24 00:00:00,14,Apêndice,Cirurgia,Ortopedia,Alta,33509.33,Público,2,Não
+360,66,Masculino,Emergência,2023-08-16 00:00:00,2023-09-03 00:00:00,18,Infarto,Fisioterapia,Cardiologia,Alta,32938.86,Privado,5,Não
+361,57,Feminino,Transferência,2023-11-20 00:00:00,2023-12-16 00:00:00,26,Fratura,Fisioterapia,Clínica Geral,Alta,27192.21,Público,4,Não
+362,64,Feminino,Eletiva,2023-03-11 00:00:00,2023-04-03 00:00:00,23,Apêndice,Medicação,Ortopedia,Alta,25816.66,Privado,3,Não
+363,28,Masculino,Emergência,2023-09-22 00:00:00,2023-10-09 00:00:00,17,Infarto,Medicação,Gastroenterologia,Óbito,32938.86,Privado,5,Não
+364,67,Feminino,Emergência,2023-07-23 00:00:00,2023-08-16 00:00:00,24,Apêndice,Fisioterapia,Ortopedia,Alta,26989.96,Público,4,Não
+365,48,Masculino,Emergência,2023-03-01 00:00:00,2023-03-24 00:00:00,23,Pneumonia,Medicação,Gastroenterologia,Transferido,25916.32,Público,4,Não
+366,45,Masculino,Emergência,2023-08-12 00:00:00,2023-09-03 00:00:00,22,Fratura,Fisioterapia,Ortopedia,Alta,26274.62,Privado,2,Não
+367,33,Feminino,Transferência,2023-06-25 00:00:00,2023-07-16 00:00:00,21,Pneumonia,Fisioterapia,Clínica Geral,Alta,25686.08,Público,1,Não
+368,49,Feminino,Emergência,2023-08-15 00:00:00,2023-09-11 00:00:00,27,Apêndice,Fisioterapia,Gastroenterologia,Alta,28646.61,Público,3,Não
+369,33,Masculino,Emergência,2023-09-17 00:00:00,2023-10-12 00:00:00,25,Infarto,Medicação,Ortopedia,Alta,35874.5,Público,5,Não
+370,73,Masculino,Emergência,2023-09-01 00:00:00,2023-09-24 00:00:00,23,Apêndice,Fisioterapia,Clínica Geral,Alta,25816.66,Privado,4,Não
+371,64,Feminino,Emergência,2023-11-23 00:00:00,2023-12-16 00:00:00,23,Fratura,Cirurgia,Cardiologia,Alta,39186.1,Público,4,Não
+372,32,Masculino,Eletiva,2023-09-21 00:00:00,2023-10-18 00:00:00,27,Infarto,Cirurgia,Gastroenterologia,Alta,54005.18,Público,5,Não
+373,56,Feminino,Eletiva,2023-05-23 00:00:00,2023-06-03 00:00:00,11,Pneumonia,Medicação,Ortopedia,Alta,19253.31,Privado,2,Não
+374,68,Masculino,Transferência,2023-09-23 00:00:00,2023-10-04 00:00:00,11,Fratura,Fisioterapia,Gastroenterologia,Transferido,18788.08,Público,4,Não
+375,63,Feminino,Eletiva,2023-09-23 00:00:00,2023-10-18 00:00:00,25,Apêndice,Medicação,Cardiologia,Óbito,27051.84,Público,1,Não
+376,66,Masculino,Transferência,2023-06-25 00:00:00,2023-07-06 00:00:00,11,Apêndice,Fisioterapia,Ortopedia,Alta,18947.88,Público,3,Não
+377,70,Masculino,Emergência,2023-04-18 00:00:00,2023-05-06 00:00:00,18,Infarto,Cirurgia,Cardiologia,Alta,48440.06,Privado,4,Não
+378,40,Feminino,Emergência,2023-06-20 00:00:00,2023-07-16 00:00:00,26,Infarto,Cirurgia,Gastroenterologia,Alta,53676.81,Privado,3,Não
+379,63,Feminino,Emergência,2023-02-09 00:00:00,2023-02-23 00:00:00,14,Infarto,Fisioterapia,Clínica Geral,Alta,31149.33,Privado,5,Não
+380,36,Feminino,Eletiva,2023-05-23 00:00:00,2023-06-21 00:00:00,29,Fratura,Medicação,Gastroenterologia,Alta,29457.77,Privado,1,Não
+381,45,Masculino,Eletiva,2023-08-25 00:00:00,2023-09-02 00:00:00,8,Diabetes,Fisioterapia,Clínica Geral,Transferido,17007.82,Público,3,Não
+382,39,Masculino,Emergência,2023-08-01 00:00:00,2023-08-11 00:00:00,10,Apêndice,Cirurgia,Cardiologia,Transferido,31926.86,Privado,2,Não
+383,21,Feminino,Eletiva,2023-02-14 00:00:00,2023-03-01 00:00:00,15,Infarto,Fisioterapia,Gastroenterologia,Alta,32170.83,Público,4,Não
+384,57,Feminino,Emergência,2023-11-20 00:00:00,2023-12-07 00:00:00,17,Pneumonia,Medicação,Clínica Geral,Alta,22915.69,Público,3,Não
+385,69,Masculino,Emergência,2023-03-05 00:00:00,2023-03-24 00:00:00,19,Pneumonia,Fisioterapia,Ortopedia,Alta,24388.94,Privado,4,Não
+386,45,Feminino,Emergência,2023-02-18 00:00:00,2023-03-11 00:00:00,21,Apêndice,Medicação,Clínica Geral,Alta,25139.11,Público,2,Não
+387,21,Masculino,Eletiva,2023-10-09 00:00:00,2023-10-22 00:00:00,13,Fratura,Medicação,Gastroenterologia,Transferido,19927.76,Público,3,Não
+388,70,Masculino,Emergência,2023-09-02 00:00:00,2023-09-17 00:00:00,15,Infarto,Cirurgia,Clínica Geral,Alta,47007.82,Público,5,Não
+389,38,Masculino,Transferência,2023-11-20 00:00:00,2023-12-10 00:00:00,20,Apêndice,Medicação,Ortopedia,Transferido,24915.69,Público,5,Não
+390,67,Feminino,Emergência,2023-05-18 00:00:00,2023-06-03 00:00:00,16,Pneumonia,Fisioterapia,Clínica Geral,Alta,21545.97,Público,2,Não
+391,21,Masculino,Emergência,2023-08-01 00:00:00,2023-08-16 00:00:00,15,Fratura,Medicação,Clínica Geral,Transferido,20970.09,Público,4,Não
+392,80,Masculino,Emergência,2023-07-28 00:00:00,2023-08-20 00:00:00,23,Fratura,Medicação,Gastroenterologia,Alta,26410.59,Público,5,Não
+393,50,Masculino,Emergência,2023-11-20 00:00:00,2023-12-14 00:00:00,24,Apêndice,Medicação,Clínica Geral,Alta,27051.84,Privado,1,Não
+394,23,Feminino,Eletiva,2023-06-25 00:00:00,2023-07-23 00:00:00,28,Pneumonia,Fisioterapia,Cardiologia,Alta,28419.06,Público,2,Não
+395,79,Masculino,Emergência,2023-02-09 00:00:00,2023-03-06 00:00:00,25,Infarto,Medicação,Gastroenterologia,Alta,35874.5,Público,1,Não
+396,86,Feminino,Eletiva,2023-09-23 00:00:00,2023-10-18 00:00:00,25,Pneumonia,Medicação,Clínica Geral,Alta,27196.26,Privado,3,Não
+397,36,Masculino,Transferência,2023-03-22 00:00:00,2023-04-18 00:00:00,27,Fratura,Fisioterapia,Clínica Geral,Alta,27658.96,Privado,4,Não
+398,40,Masculino,Emergência,2023-08-14 00:00:00,2023-09-08 00:00:00,25,Fratura,Medicação,Ortopedia,Transferido,27051.84,Particular,4,Não
+399,38,Feminino,Transferência,2023-06-03 00:00:00,2023-06-21 00:00:00,18,Infarto,Medicação,Ortopedia,Transferido,32938.86,Privado,2,Não
+400,78,Feminino,Emergência,2023-10-18 00:00:00,2023-11-13 00:00:00,26,Infarto,Fisioterapia,Ortopedia,Transferido,35874.5,Público,5,Não
+401,50,Masculino,Emergência,2023-03-22 00:00:00,2023-04-18 00:00:00,27,Infarto,Medicação,Cardiologia,Alta,36162.91,Público,4,Sim
+402,40,Masculino,Eletiva,2023-09-02 00:00:00,2023-09-17 00:00:00,15,Apêndice,Medicação,Clínica Geral,Alta,20970.09,Privado,1,Não
+403,55,Masculino,Eletiva,2023-08-25 00:00:00,2023-09-17 00:00:00,23,Pneumonia,Medicação,Cardiologia,Alta,25816.66,Público,1,Não
+404,57,Feminino,Emergência,2023-03-10 00:00:00,2023-03-22 00:00:00,12,Apêndice,Cirurgia,Clínica Geral,Transferido,32537.95,Público,5,Não
+405,58,Masculino,Transferência,2023-11-20 00:00:00,2023-12-14 00:00:00,24,Diabetes,Fisioterapia,Cardiologia,Alta,27196.26,Privado,4,Não
+406,64,Masculino,Transferência,2023-03-11 00:00:00,2023-03-28 00:00:00,17,Infarto,Medicação,Cardiologia,Óbito,32938.86,Privado,3,Não
+407,69,Feminino,Emergência,2023-09-22 00:00:00,2023-10-15 00:00:00,23,Diabetes,Fisioterapia,Ortopedia,Alta,25816.66,Público,1,Não
+408,56,Feminino,Emergência,2023-07-23 00:00:00,2023-08-01 00:00:00,9,Fratura,Fisioterapia,Gastroenterologia,Transferido,18469.75,Público,2,Não
+409,38,Masculino,Emergência,2023-03-01 00:00:00,2023-03-24 00:00:00,23,Apêndice,Medicação,Ortopedia,Alta,25916.32,Privado,4,Não
+410,76,Feminino,Eletiva,2023-08-12 00:00:00,2023-08-25 00:00:00,13,Apêndice,Fisioterapia,Ortopedia,Alta,20141.02,Privado,5,Não
+411,85,Masculino,Transferência,2023-06-25 00:00:00,2023-07-20 00:00:00,25,Infarto,Medicação,Clínica Geral,Alta,35509.33,Público,4,Não
+412,50,Feminino,Eletiva,2023-08-15 00:00:00,2023-09-02 00:00:00,18,Pneumonia,Cirurgia,Gastroenterologia,Alta,37039.67,Público,4,Não
+413,63,Masculino,Emergência,2023-09-17 00:00:00,2023-10-18 00:00:00,31,Fratura,Fisioterapia,Clínica Geral,Óbito,29457.77,Privado,4,Não
+414,66,Feminino,Transferência,2023-09-01 00:00:00,2023-09-24 00:00:00,23,Apêndice,Medicação,Clínica Geral,Transferido,25816.66,Público,1,Não
+415,33,Masculino,Emergência,2023-06-03 00:00:00,2023-06-19 00:00:00,16,Fratura,Medicação,Ortopedia,Alta,21545.97,Público,3,Não
+416,79,Masculino,Emergência,2023-08-14 00:00:00,2023-08-20 00:00:00,6,Apêndice,Medicação,Ortopedia,Transferido,16001.29,Público,5,Não
+417,65,Masculino,Emergência,2023-01-28 00:00:00,2023-02-18 00:00:00,21,Apêndice,Medicação,Cardiologia,Transferido,25139.11,Público,2,Não
+418,66,Feminino,Eletiva,2023-12-07 00:00:00,2023-12-25 00:00:00,18,Apêndice,Fisioterapia,Gastroenterologia,Alta,22441.5,Público,4,Não
+419,57,Feminino,Eletiva,2023-11-09 00:00:00,2023-11-20 00:00:00,11,Apêndice,Medicação,Clínica Geral,Alta,20023.27,Privado,5,Não
+420,23,Feminino,Emergência,2023-11-20 00:00:00,2023-12-14 00:00:00,24,Infarto,Cirurgia,Ortopedia,Alta,50552.12,Público,1,Não
+421,63,Masculino,Eletiva,2023-01-09 00:00:00,2023-01-26 00:00:00,17,Apêndice,Fisioterapia,Clínica Geral,Óbito,22915.69,Público,2,Não
+422,35,Masculino,Emergência,2023-05-18 00:00:00,2023-06-03 00:00:00,16,Pneumonia,Medicação,Cardiologia,Transferido,21271.74,Público,5,Não
+423,62,Feminino,Eletiva,2023-08-27 00:00:00,2023-09-08 00:00:00,12,Pneumonia,Medicação,Ortopedia,Alta,19688.4,Público,2,Não
+424,56,Feminino,Emergência,2023-05-24 00:00:00,2023-06-19 00:00:00,26,Pneumonia,Medicação,Clínica Geral,Transferido,28148.8,Privado,4,Não
+425,76,Feminino,Eletiva,2023-08-25 00:00:00,2023-09-08 00:00:00,14,Fratura,Fisioterapia,Gastroenterologia,Alta,20858.94,Privado,4,Não
+426,80,Masculino,Emergência,2023-07-29 00:00:00,2023-08-01 00:00:00,3,Infarto,Cirurgia,Gastroenterologia,Alta,44737.52,Público,1,Não
+427,65,Masculino,Eletiva,2023-03-10 00:00:00,2023-03-24 00:00:00,14,Infarto,Fisioterapia,Ortopedia,Alta,32050.81,Público,2,Não
+428,66,Masculino,Emergência,2023-08-16 00:00:00,2023-09-03 00:00:00,18,Apêndice,Fisioterapia,Cardiologia,Transferido,22441.5,Privado,4,Não
+429,57,Feminino,Transferência,2023-11-20 00:00:00,2023-12-16 00:00:00,26,Apêndice,Medicação,Clínica Geral,Alta,27192.21,Público,1,Não
+430,64,Feminino,Eletiva,2023-03-11 00:00:00,2023-04-03 00:00:00,23,Infarto,Cirurgia,Ortopedia,Alta,50552.12,Privado,2,Não
+431,28,Masculino,Emergência,2023-09-22 00:00:00,2023-10-09 00:00:00,17,Pneumonia,Medicação,Gastroenterologia,Alta,22915.69,Privado,1,Não
+432,67,Feminino,Emergência,2023-07-23 00:00:00,2023-08-16 00:00:00,24,Apêndice,Medicação,Ortopedia,Alta,26989.96,Público,3,Não
+433,48,Masculino,Emergência,2023-03-01 00:00:00,2023-03-24 00:00:00,23,Fratura,Medicação,Gastroenterologia,Alta,25916.32,Público,4,Não
+434,45,Masculino,Emergência,2023-08-12 00:00:00,2023-09-03 00:00:00,22,Infarto,Medicação,Ortopedia,Alta,34509.33,Privado,3,Não
+435,33,Feminino,Transferência,2023-06-25 00:00:00,2023-07-16 00:00:00,21,Fratura,Fisioterapia,Clínica Geral,Alta,25686.08,Público,5,Não
+436,49,Feminino,Emergência,2023-08-15 00:00:00,2023-09-11 00:00:00,27,Pneumonia,Medicação,Gastroenterologia,Óbito,28646.61,Público,3,Não
+437,33,Masculino,Emergência,2023-09-17 00:00:00,2023-10-12 00:00:00,25,Fratura,Fisioterapia,Ortopedia,Alta,26410.59,Público,5,Não
+438,73,Masculino,Emergência,2023-09-01 00:00:00,2023-09-24 00:00:00,23,Fratura,Medicação,Clínica Geral,Transferido,25816.66,Privado,4,Não
+439,64,Feminino,Emergência,2023-11-23 00:00:00,2023-12-16 00:00:00,23,Apêndice,Cirurgia,Cardiologia,Transferido,40798.83,Público,1,Não
+440,32,Masculino,Eletiva,2023-09-21 00:00:00,2023-10-18 00:00:00,27,Pneumonia,Fisioterapia,Gastroenterologia,Alta,27658.96,Público,3,Não
+441,56,Feminino,Eletiva,2023-05-23 00:00:00,2023-06-03 00:00:00,11,Infarto,Fisioterapia,Ortopedia,Alta,31149.33,Privado,4,Não
+442,68,Masculino,Transferência,2023-09-23 00:00:00,2023-10-04 00:00:00,11,Pneumonia,Medicação,Gastroenterologia,Óbito,18788.08,Público,5,Não
+443,63,Feminino,Eletiva,2023-09-23 00:00:00,2023-10-18 00:00:00,25,Fratura,Fisioterapia,Cardiologia,Alta,26410.59,Público,3,Não
+444,66,Masculino,Transferência,2023-06-25 00:00:00,2023-07-06 00:00:00,11,Pneumonia,Medicação,Ortopedia,Transferido,18947.88,Público,4,Não
+445,70,Masculino,Emergência,2023-04-18 00:00:00,2023-05-06 00:00:00,18,Infarto,Medicação,Cardiologia,Alta,33504.64,Privado,2,Não
+446,40,Feminino,Emergência,2023-06-20 00:00:00,2023-07-16 00:00:00,26,Apêndice,Cirurgia,Gastroenterologia,Alta,43118.0,Privado,4,Não
+447,63,Feminino,Emergência,2023-02-09 00:00:00,2023-02-23 00:00:00,14,Apêndice,Medicação,Clínica Geral,Alta,20858.94,Privado,5,Não
+448,36,Feminino,Eletiva,2023-05-23 00:00:00,2023-06-21 00:00:00,29,Infarto,Fisioterapia,Gastroenterologia,Alta,36162.91,Privado,3,Não
+449,45,Masculino,Eletiva,2023-08-25 00:00:00,2023-09-02 00:00:00,8,Fratura,Medicação,Clínica Geral,Alta,17007.82,Público,2,Não
+450,39,Masculino,Emergência,2023-08-01 00:00:00,2023-08-11 00:00:00,10,Infarto,Cirurgia,Cardiologia,Alta,41926.86,Privado,4,Não
+451,21,Feminino,Eletiva,2023-02-14 00:00:00,2023-03-01 00:00:00,15,Infarto,Fisioterapia,Gastroenterologia,Transferido,32170.83,Público,5,Não
+452,57,Feminino,Emergência,2023-11-20 00:00:00,2023-12-07 00:00:00,17,Fratura,Medicação,Clínica Geral,Alta,22915.69,Público,3,Não
+453,69,Masculino,Emergência,2023-03-05 00:00:00,2023-03-24 00:00:00,19,Fratura,Fisioterapia,Ortopedia,Transferido,24388.94,Privado,5,Não
+454,45,Feminino,Emergência,2023-02-18 00:00:00,2023-03-11 00:00:00,21,Pneumonia,Fisioterapia,Clínica Geral,Alta,24915.69,Público,1,Não
+455,21,Masculino,Eletiva,2023-10-09 00:00:00,2023-10-22 00:00:00,13,Apêndice,Medicação,Gastroenterologia,Alta,19927.76,Público,3,Não
+456,70,Masculino,Emergência,2023-09-02 00:00:00,2023-09-17 00:00:00,15,Pneumonia,Fisioterapia,Clínica Geral,Alta,21183.18,Público,5,Não
+457,38,Masculino,Transferência,2023-11-20 00:00:00,2023-12-10 00:00:00,20,Apêndice,Medicação,Ortopedia,Alta,24915.69,Público,4,Não
+458,67,Feminino,Emergência,2023-05-18 00:00:00,2023-06-03 00:00:00,16,Diabetes,Medicação,Clínica Geral,Transferido,21545.97,Público,5,Não
+459,21,Masculino,Emergência,2023-08-01 00:00:00,2023-08-16 00:00:00,15,Pneumonia,Fisioterapia,Clínica Geral,Alta,20970.09,Público,2,Não
+460,80,Masculino,Emergência,2023-07-28 00:00:00,2023-08-20 00:00:00,23,Infarto,Cirurgia,Gastroenterologia,Alta,50552.12,Público,4,Não
+461,50,Masculino,Emergência,2023-11-20 00:00:00,2023-12-14 00:00:00,24,Diabetes,Medicação,Clínica Geral,Alta,27051.84,Privado,5,Não
+462,23,Feminino,Eletiva,2023-06-25 00:00:00,2023-07-23 00:00:00,28,Fratura,Fisioterapia,Cardiologia,Transferido,28419.06,Público,4,Não
+463,79,Masculino,Emergência,2023-02-09 00:00:00,2023-03-06 00:00:00,25,Pneumonia,Medicação,Gastroenterologia,Alta,26418.06,Público,1,Não
+464,86,Feminino,Eletiva,2023-09-23 00:00:00,2023-10-18 00:00:00,25,Infarto,Medicação,Clínica Geral,Alta,35874.5,Privado,3,Não
+465,36,Masculino,Transferência,2023-03-22 00:00:00,2023-04-18 00:00:00,27,Apêndice,Cirurgia,Clínica Geral,Alta,43274.67,Privado,4,Não
+466,40,Masculino,Emergência,2023-08-14 00:00:00,2023-09-08 00:00:00,25,Apêndice,Fisioterapia,Ortopedia,Transferido,27197.8,Particular,5,Não
+467,38,Feminino,Transferência,2023-06-03 00:00:00,2023-06-21 00:00:00,18,Infarto,Medicação,Ortopedia,Alta,32938.86,Privado,3,Não
+468,78,Feminino,Emergência,2023-10-18 00:00:00,2023-11-13 00:00:00,26,Pneumonia,Cirurgia,Ortopedia,Transferido,42591.24,Público,1,Não
+469,50,Masculino,Emergência,2023-03-22 00:00:00,2023-04-18 00:00:00,27,Diabetes,Fisioterapia,Cardiologia,Óbito,27926.17,Público,4,Não
+470,40,Masculino,Eletiva,2023-09-02 00:00:00,2023-09-17 00:00:00,15,Infarto,Fisioterapia,Clínica Geral,Transferido,32170.83,Privado,5,Não
+471,55,Masculino,Eletiva,2023-08-25 00:00:00,2023-09-17 00:00:00,23,Fratura,Cirurgia,Cardiologia,Alta,39186.1,Público,2,Não
+472,57,Feminino,Emergência,2023-03-10 00:00:00,2023-03-22 00:00:00,12,Apêndice,Medicação,Clínica Geral,Alta,19688.4,Público,4,Não
+473,58,Masculino,Transferência,2023-11-20 00:00:00,2023-12-14 00:00:00,24,Diabetes,Medicação,Cardiologia,Alta,27196.26,Privado,1,Não
+474,64,Masculino,Transferência,2023-03-11 00:00:00,2023-03-28 00:00:00,17,Infarto,Cirurgia,Cardiologia,Alta,47007.82,Privado,3,Não
+475,69,Feminino,Emergência,2023-09-22 00:00:00,2023-10-15 00:00:00,23,Fratura,Medicação,Ortopedia,Transferido,25816.66,Público,2,Não
+476,56,Feminino,Emergência,2023-07-23 00:00:00,2023-08-01 00:00:00,9,Pneumonia,Medicação,Gastroenterologia,Alta,18469.75,Público,1,Não
+477,38,Masculino,Emergência,2023-03-01 00:00:00,2023-03-24 00:00:00,23,Pneumonia,Medicação,Ortopedia,Alta,25916.32,Privado,3,Não
+478,76,Feminino,Eletiva,2023-08-12 00:00:00,2023-08-25 00:00:00,13,Infarto,Fisioterapia,Ortopedia,Alta,31698.81,Privado,5,Não
+479,85,Masculino,Transferência,2023-06-25 00:00:00,2023-07-20 00:00:00,25,Apêndice,Medicação,Clínica Geral,Alta,27725.26,Público,4,Não
+480,50,Feminino,Eletiva,2023-08-15 00:00:00,2023-09-02 00:00:00,18,Infarto,Cirurgia,Gastroenterologia,Alta,50130.63,Público,1,Não
+481,63,Masculino,Emergência,2023-09-17 00:00:00,2023-10-18 00:00:00,31,Apêndice,Medicação,Clínica Geral,Transferido,29457.77,Privado,4,Não
+482,66,Feminino,Transferência,2023-09-01 00:00:00,2023-09-24 00:00:00,23,Diabetes,Fisioterapia,Clínica Geral,Alta,25816.66,Público,3,Não
+483,33,Masculino,Emergência,2023-06-03 00:00:00,2023-06-19 00:00:00,16,Pneumonia,Medicação,Ortopedia,Óbito,21545.97,Público,1,Não
+484,79,Masculino,Emergência,2023-08-14 00:00:00,2023-08-20 00:00:00,6,Fratura,Fisioterapia,Ortopedia,Alta,16001.29,Público,4,Não
+485,65,Masculino,Emergência,2023-01-28 00:00:00,2023-02-18 00:00:00,21,Infarto,Medicação,Cardiologia,Transferido,34050.53,Público,5,Não
+486,66,Feminino,Eletiva,2023-12-07 00:00:00,2023-12-25 00:00:00,18,Infarto,Medicação,Gastroenterologia,Alta,32938.86,Público,2,Não
+487,57,Feminino,Eletiva,2023-11-09 00:00:00,2023-12-01 00:00:00,22,Pneumonia,Fisioterapia,Clínica Geral,Óbito,25686.08,Privado,4,Não
+488,23,Feminino,Emergência,2023-11-20 00:00:00,2023-12-14 00:00:00,24,Fratura,Fisioterapia,Ortopedia,Alta,26410.59,Público,3,Não
+489,63,Masculino,Eletiva,2023-01-09 00:00:00,2023-01-26 00:00:00,17,Fratura,Medicação,Clínica Geral,Alta,22915.69,Público,5,Não
+490,35,Masculino,Emergência,2023-05-18 00:00:00,2023-06-03 00:00:00,16,Pneumonia,Medicação,Cardiologia,Transferido,21271.74,Público,4,Não
+491,62,Feminino,Eletiva,2023-08-27 00:00:00,2023-09-08 00:00:00,12,Fratura,Fisioterapia,Ortopedia,Alta,18933.25,Público,3,Não
+492,56,Feminino,Emergência,2023-05-24 00:00:00,2023-06-19 00:00:00,26,Apêndice,Medicação,Clínica Geral,Transferido,28148.8,Privado,5,Não
+493,76,Feminino,Eletiva,2023-08-25 00:00:00,2023-09-08 00:00:00,14,Diabetes,Medicação,Gastroenterologia,Transferido,20858.94,Privado,4,Não
+494,80,Masculino,Emergência,2023-07-29 00:00:00,2023-08-01 00:00:00,3,Pneumonia,Cirurgia,Gastroenterologia,Alta,29487.6,Público,5,Não
+495,65,Masculino,Eletiva,2023-03-10 00:00:00,2023-03-24 00:00:00,14,Infarto,Cirurgia,Ortopedia,Alta,44827.81,Público,1,Não
+496,66,Masculino,Emergência,2023-08-16 00:00:00,2023-09-03 00:00:00,18,Apêndice,Medicação,Cardiologia,Transferido,22441.5,Privado,3,Não
+497,57,Feminino,Transferência,2023-11-20 00:00:00,2023-12-16 00:00:00,26,Fratura,Medicação,Clínica Geral,Alta,27192.21,Público,4,Não
+498,64,Feminino,Eletiva,2023-03-11 00:00:00,2023-04-03 00:00:00,23,Pneumonia,Fisioterapia,Ortopedia,Transferido,25916.32,Privado,3,Não
+499,28,Masculino,Emergência,2023-09-22 00:00:00,2023-10-09 00:00:00,17,Fratura,Medicação,Gastroenterologia,Óbito,22915.69,Privado,5,Não
+500,67,Feminino,Emergência,2023-07-23 00:00:00,2023-08-16 00:00:00,24,Infarto,Fisioterapia,Ortopedia,Alta,34792.05,Público,4,Não
