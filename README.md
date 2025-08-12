@@ -1,3 +1,57 @@
+# Hospital-Analysis
+🏥 Project: Hospital Data Analysis
+📁 Description
+This project performs exploratory data analysis (EDA) on a fictitious hospital dataset containing 500 patient records. The goal is to extract clinical, operational, and financial insights that can support strategic decisions in hospital settings.
+
+📦 Dataset: hospital.csv
+The hospital.csv file contains clinical, administrative, and demographic information for patients treated at a hospital.
+📋 Column Structure
+| Column | Description |
+| patient_id | Unique patient identifier |
+| age | Patient age (0 to 100 years) |
+| sex | Patient gender: Male or Female |
+| hospital_type | Type of admission: Elective, Emergency, or Urgent |
+| admission_date | Date the patient was admitted to the hospital |
+| discharge_date | Date of hospital discharge or discharge for another reason |
+| days_hospitalized | Total number of days the patient remained hospitalized |
+| main_diagnosis | Main illness diagnosed (e.g., pneumonia, stroke, COVID-19) |
+| main_treatment | Main procedure or therapy performed during hospitalization |
+| medical_specialty | Responsible medical department (e.g., neurology, general practice) |
+| discharge_condition | Final patient status: discharge, death, transfer, etc. |
+| total_cost | Estimated total cost of treatment in reais |
+| health_plan | Name of health plan used or "Private" |
+| patient_satisfaction | Patient's evaluation (scale of 1 to 5) of the care received |
+| rehospitalization_30days | Indicates whether there was a rehospitalization within 30 days of discharge (Yes or No) |
+
+📊 Analyses Performed
+The analyses were performed with pandas, matplotlib, and seaborn, including:
+- Distribution of patients by sex and age
+- Most common types of hospitalization
+- Most frequent diagnoses and treatments
+- Average length of stay
+- Average cost by health plan
+- Average satisfaction by medical specialty
+- Readmission rate within 30 days
+- Correlations between hospitalization days, cost, and satisfaction
+- Visualizations with histograms, boxplots, and graphs
+
+🧰 Technologies Used
+- Python 3.10+
+- pandas
+- matplotlib
+- seaborn
+- Jupyter Notebook
+
+📁 Project Organization
+📦 hospital-analise/
+├── hospital.csv
+├── Hospital.ipynb
+├── README.md
+
+
+
+
+
 # Analise-Hospital
 🏥 Projeto: Análise de Dados Hospitalares
 📁 Descrição
